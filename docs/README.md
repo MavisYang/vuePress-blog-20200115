@@ -15,8 +15,19 @@
         |-- config.js // 特定的配置文件
 |-- package.json // 脚本命令
 ```
+### 启动
+```
+npm run docs:dev
+
+```
+### build
+
+```
+npm run docs:build
+```
 
 #### VuePress 自动生成侧边栏和导航栏
+
 ##### 安装
 ```
 npm install -D boboidream/vuepress-bar
