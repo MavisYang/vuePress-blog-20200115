@@ -6,6 +6,8 @@
 ### vuePress博客搭建
 
 - [VuePress 手摸手教你搭建一个类Vue文档风格的技术文档/博客](https://segmentfault.com/a/1190000016333850)
+- [GitHub Pages 建立个人网站详细教程](https://zhuanlan.zhihu.com/p/58229299)
+- [使用 github pages, 快速部署你的静态网页](https://zhuanlan.zhihu.com/p/38480155)
 
 ### 项目目录 
 ```
